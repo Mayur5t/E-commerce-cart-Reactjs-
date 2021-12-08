@@ -1,2 +1,2 @@
-# e-commerce-cart
+# E-commerce-cart
 Cart functionality via ReactJS
